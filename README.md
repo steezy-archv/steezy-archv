@@ -87,10 +87,26 @@ A cross-platform entertainment app combining local music playback with TMDB-powe
 
 **Creative**
 
-![After Effects](https://img.shields.io/badge/After_Effects-18181B?style=flat-square&logo=adobeaftereffects&logoColor=A78BFA)
-![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-18181B?style=flat-square&logo=adobepremierepro&logoColor=A78BFA)
-![Illustrator](https://img.shields.io/badge/Illustrator-18181B?style=flat-square&logo=adobeillustrator&logoColor=F97316)
-![Blender](https://img.shields.io/badge/Blender-18181B?style=flat-square&logo=blender&logoColor=F97316)
+<table>
+<tr>
+<td align="center" width="25%">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/aftereffects/aftereffects-original.svg" width="42" alt="After Effects icon" /><br />
+  <sub><strong>After Effects</strong></sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/premierepro/premierepro-original.svg" width="42" alt="Premiere Pro icon" /><br />
+  <sub><strong>Premiere Pro</strong></sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/illustrator/illustrator-original.svg" width="42" alt="Illustrator icon" /><br />
+  <sub><strong>Illustrator</strong></sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/blender/blender-original.svg" width="42" alt="Blender icon" /><br />
+  <sub><strong>Blender</strong></sub>
+</td>
+</tr>
+</table>
 
 ---
 
